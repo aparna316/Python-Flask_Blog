@@ -8,13 +8,13 @@
     "tw_url": "https://twitter.com/codingthunder",
     "gh_url": "https://github.com/codingthunder",
     "blog_name": "A_Code",
-    "gmail-user": "aps.zoe.crazy@gmail.com",
-    "gmail-password": "cornpopcorncornpop",
+    "gmail-user": "",
+    "gmail-password": "",
     "about_text": "Hi I am aparna",
     "no_of_posts": 2 ,
     "login_image": "one-bg.jpg",
-    "admin_user": "aparna",
-    "admin_password": "1234",
-    "upload_location": "C:\\Users\\Dell\\PycharmProjects\\pythonProject1\\static"
+    "admin_user": "",
+    "admin_password": "",
+    "upload_location": ""
   }
 }
